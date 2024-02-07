@@ -1,4 +1,4 @@
-#### Credit Risk Analysis Report
+# Credit Risk Analysis Report
 ### In this code we are testing this machine learning model to analyis whether or not it is a good fit for our credit risk analysis. We are loading the data into two sets. A training and a testing set. We are then loading this data into a linear regression model and making predictions on the data. The data is then resampled and ran in a linear regression model using randomized resampled data to further test the machine learning model. 
 
 - ### accuracy
@@ -7,7 +7,7 @@
 
 - ### recall scores
 
-# Summary: When looking at the outputs from our original test data and our resampled data there are no major differences. 
+###### Summary: When looking at the outputs from our original test data and our resampled data there are no major differences. 
 
 ### Here is our original data output
               precision    recall  f1-score   support
